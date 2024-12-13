@@ -1,0 +1,6 @@
+export PATH="$PATH:/Users/user/Desktop/flutter/bin"
+export PATH="/usr/local/opt/ruby@3.0/bin:$PATH"
+export JAVA_HOME=$(/usr/libexec/java_home -v 17)
+
+
+
